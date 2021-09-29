@@ -3,3 +3,4 @@
 ## 0929 head
 ### 5th try helphelp
 ## add 
+### new add git init
