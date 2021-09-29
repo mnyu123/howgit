@@ -4,3 +4,4 @@
 ### 5th try helphelp
 ## add 
 ### new add git init
+##### new add vscode
